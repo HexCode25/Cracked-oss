@@ -1,4 +1,4 @@
-# 👋 Hi! Welcome to my profile
+[<img src="https://raw.githubusercontent.com/Cracked-oss/Cracked-oss/main/assets/banner.gif" width="100%"/>](https://github.com/Cracked-oss)
 
 <div align="center">
 
@@ -25,6 +25,39 @@ I am passionate about software development and computer security, specialized in
 - 🚀 Software Development
 - 💡 Creative Solutions
 
+## 🔥 Featured Projects
+<div align="center">
+<a href="https://github.com/Cracked-oss/WinrarKeyManager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=WinrarKeyManager&theme=radical" />
+</a>
+<a href="https://github.com/Cracked-oss/QRCodeGeneratorApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=QRCodeGeneratorApp&theme=radical" />
+</a>
+</div>
+
+## 🚀 Currently Working On
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Reverse Engineering Tools</h3>
+      <p align="center">
+        <a href="https://github.com/Cracked-oss" target="_blank">
+          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=github">
+        </a>
+      </p>
+      <p>Advanced tools for software analysis and reverse engineering, focusing on Windows applications and security research.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Security Research</h3>
+      <p align="center">
+        <a href="https://github.com/Cracked-oss" target="_blank">
+          <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github">
+        </a>
+      </p>
+      <p>Exploring software vulnerabilities and developing security solutions for desktop applications.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Current Focus
 - 🔭 I'm currently working reverse engineering projects
