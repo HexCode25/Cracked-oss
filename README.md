@@ -43,7 +43,7 @@ I'm open for:
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=github">
         </a>
       </p>
-      <p align="center">Specialized tools for software security and license management. Creating innovative solutions for Windows applications.</p>
+      <p align="center">Working on confidential projects. Details will be shared when ready for public release.</p>
     </td>
   </tr>
 </table>
