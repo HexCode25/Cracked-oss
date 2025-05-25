@@ -24,7 +24,7 @@ I'm open for:
 
 ## 🔥 Featured Projects
 <div align="center">
-<a href="[https://github.com/Cracked-oss/WinrarKeyManager](https://github.com/Cracked-oss/BSOD_Windows)">
+<a href="https://github.com/Cracked-oss/BSOD_Windows">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=BSOD_Windows&theme=radical" />
 </a>
 <a href="https://github.com/Cracked-oss/Arduino-simple_weighing-and-calibration">
