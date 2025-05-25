@@ -1,79 +1,84 @@
-# <div align="center">![HexCode Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HexCode&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient)</div>
+# QR Code Generator App 🔲
 
-<div align="center">
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://github.com/Cracked-oss/QRCodeGeneratorApp)
+[![C#](https://img.shields.io/badge/Language-C%23-green.svg)](https://github.com/Cracked-oss/QRCodeGeneratorApp)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cracked-oss&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/Cracked-oss?label=Follow&style=social)](https://github.com/Cracked-oss)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
+A powerful, user-friendly Windows desktop application for generating QR codes quickly and efficiently. Built with C# and Windows Forms, this application provides a seamless experience for creating QR codes for various purposes.
 
-[![Skills](https://img.shields.io/badge/Skills-Reverse%20Engineering%20%7C%20Security%20%7C%20Development-blue?style=for-the-badge)](https://github.com/Cracked-oss)
-</div>
+## ✨ Features
 
-## 👨‍💻 About Me
-I am passionate about software development and computer security, specialized in:
-- 💻 Reverse Engineering
-- 🔐 Software Security
-- 🚀 Software Development
-- 💡 Creative Solutions
+- **Simple & Intuitive Interface**: Generate QR codes with just a few clicks
+- **Multiple Data Types Support**: 
+  - URLs
+  - Plain text
+  - Contact information
+  - Wi-Fi credentials
+- **High-Quality Output**: Export QR codes in various formats
+  - PNG format
+  - High resolution
+  - Clear and scannable results
+- **Offline Functionality**: Generate QR codes without internet connection
+- **Real-time Preview**: See your QR code update as you type
+- **Windows Native**: Built specifically for Windows platform
 
-## 🤝 Let's Connect
-I'm open for:
-- 💼 Freelance Projects
-- 🤝 Project Ideas
-- 📚 Knowledge Exchange
+## 🚀 Getting Started
 
-## 🔥 Featured Projects
-<div align="center">
-<a href="https://github.com/Cracked-oss/WinrarKeyManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=WinrarKeyManager&theme=radical" />
-</a>
-<a href="https://github.com/Cracked-oss/QRCodeGeneratorApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=QRCodeGeneratorApp&theme=radical" />
-</a>
-</div>
+### Prerequisites
 
-## 🚀 Currently Working On
-<div align="center">
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="center">Private Projects</h3>
-      <p align="center">
-        <a href="https://github.com/Cracked-oss" target="_blank">
-          <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p align="center">Working on confidential projects. Details will be shared when ready for public release.</p>
-    </td>
-  </tr>
-</table>
-</div>
+- Windows OS
+- .NET Framework 4.7.2 or higher
 
-## 🌱 Current Focus
-- 🔭 I'm currently working reverse engineering projects
+### Installation
 
-- 💬 Ask me about reverse engineering, software security, and development
-- 😄 Pronouns: HexCode
-- ⚡ Fun fact: I love discovering hidden features in software!
+1. Download the latest release from the [Releases](https://github.com/Cracked-oss/QRCodeGeneratorApp/releases) page
+2. Extract the ZIP file to your desired location
+3. Run `QRCodeGeneratorApp.exe`
 
-## 🛠️ Technologies & Tools
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+## 💡 How to Use
 
-### 💼 Expertise
-- 🔒 Desktop Development
-- 🛡️ Application Security
-- 💻 Software License Management
-- 🌐 Web Development
+1. Launch the application
+2. Enter your desired text or URL in the input field
+3. Click the "Generate" button
+4. Your QR code will be displayed instantly
+5. Use the "Save" button to export your QR code
 
-## 📫 Connect With Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hex_Code)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hexcode.832203/)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hexcode64319)
+## 🛠️ Built With
+
+- C# Programming Language
+- Windows Forms
+- .NET Framework
+- QR Code Generation Libraries
+
+## 📝 License
+
+This project is licensed under the Unlicense - see the [LICENSE](LICENSE.txt) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## ✨ Future Enhancements
+
+- [ ] Additional QR code formats support
+- [ ] Custom color options
+- [ ] Batch QR code generation
+- [ ] QR code scanning functionality
+- [ ] Error correction level selection
+
+## 📞 Support
+
+If you encounter any issues or have questions, please [open an issue](https://github.com/Cracked-oss/QRCodeGeneratorApp/issues) on GitHub.
 
 ## 💰 Support My Work
+
+If you find this project helpful and want to support my work, you can contribute through:
 
 ### 💎 Crypto Donations
 | ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
@@ -81,24 +86,13 @@ I'm open for:
 | `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
 | USDT (TRC20 Network) |
 
-## 📊 GitHub Stats
 
-<div align="center">
+### Buy Me a Coffee
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cracked-oss&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked-oss&layout=compact&theme=radical)
+Made with ❤️ by [Cracked-oss](https://github.com/Cracked-oss)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracked-oss&theme=radical)
 
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cracked-oss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<div align="center">
-⭐️ If you like my projects, don't forget to give them a star! 
-
-[![GitHub Profile](https://img.shields.io/badge/Visit%20My-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Cracked-oss)
-</div>
-
+![Screenshot 2025-02-28 231139](https://github.com/user-attachments/assets/d773db31-010d-4c92-bc45-6c93b7b60fd2)
