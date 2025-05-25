@@ -9,7 +9,7 @@ Support my work with crypto
 
 | Coin | Address |
 |------|---------|
-| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | `YOUR_USDT_ADDRESS` |
+| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
 > Note: USDT (TRC20 Network)
 
 
