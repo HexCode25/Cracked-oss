@@ -11,26 +11,25 @@ I am passionate about software development and computer security, specialized in
 - 🚀 Software Development
 - 💡 Creative Solutions
 
+
 ## 🌱 Current Focus
-- 🔭 I'm currently working on software security tools and reverse engineering projects
-- 🌱 I'm currently learning advanced application security techniques
-- 👯 I'm looking to collaborate on security and development projects
-- 🤔 I'm looking for help with expanding security research
+- 🔭 I'm currently working reverse engineering projects
+
 - 💬 Ask me about reverse engineering, software security, and development
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: HexCode
 - ⚡ Fun fact: I love discovering hidden features in software!
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: C#, Python
+- Programming Languages: C#
 - Desktop Development
 - Application Security
-- QR Code Development
 - Software License Management
+- Web Development
 
 ## 📫 How to Reach Me
-- 📱 Telegram: [Contact me on Telegram]
-- 💼 Facebook: [My Facebook Profile]
-- ☕ Ko-fi: [Support me on Ko-fi]
+- 📱 Telegram: https://t.me/Hex_Code
+- 💼 Facebook: https://www.facebook.com/hexcode.832203/
+- ☕ Ko-fi: https://ko-fi.com/hexcode64319
 
 ## 📊 GitHub Stats
 
@@ -51,5 +50,3 @@ I'm open for:
 
 ---
 ⭐️ If you like my projects, don't forget to give them a star! 
-
-![Snake animation](https://github.com/Cracked-oss/Cracked-oss/blob/output/github-contribution-grid-snake.svg) 
