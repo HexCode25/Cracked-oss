@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi! Welcome to my profile
 
-<!--
-**Cracked-oss/Cracked-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Cracked-oss&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/Cracked-oss?label=Follow&style=social)](https://github.com/Cracked-oss)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am passionate about software development and computer security, specialized in:
+- 💻 Reverse Engineering
+- 🔐 Software Security
+- 🚀 Software Development
+- 💡 Creative Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus
+- 🔭 I'm currently working on software security tools and reverse engineering projects
+- 🌱 I'm currently learning advanced application security techniques
+- 👯 I'm looking to collaborate on security and development projects
+- 🤔 I'm looking for help with expanding security research
+- 💬 Ask me about reverse engineering, software security, and development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love discovering hidden features in software!
+
+## 🛠️ Technologies & Tools
+- Programming Languages: C#, Python
+- Desktop Development
+- Application Security
+- QR Code Development
+- Software License Management
+
+## 📫 How to Reach Me
+- 📱 Telegram: [Contact me on Telegram]
+- 💼 Facebook: [My Facebook Profile]
+- ☕ Ko-fi: [Support me on Ko-fi]
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cracked-oss&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked-oss&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracked-oss&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cracked-oss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🤝 Collaboration
+I'm open for:
+- 💼 Freelance Projects
+- 🤝 Project Collaborations
+- 📚 Knowledge Exchange
+
+---
+⭐️ If you like my projects, don't forget to give them a star! 
+
+![Snake animation](https://github.com/Cracked-oss/Cracked-oss/blob/output/github-contribution-grid-snake.svg) 
