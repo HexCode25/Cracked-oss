@@ -9,15 +9,6 @@
 [![Skills](https://img.shields.io/badge/Skills-Reverse%20Engineering%20%7C%20Security%20%7C%20Development-blue?style=for-the-badge)](https://github.com/Cracked-oss)
 </div>
 
-## 💰 Crypto Donations
-Support my work with crypto
-
-| Coin | Address |
-|------|---------|
-| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
-> Note: USDT (TRC20 Network)
-
-
 ## 👨‍💻 About Me
 I am passionate about software development and computer security, specialized in:
 - 💻 Reverse Engineering
