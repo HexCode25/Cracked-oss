@@ -35,23 +35,14 @@ I'm open for:
 ## 🚀 Currently Working On
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Reverse Engineering Tools</h3>
+    <td width="100%">
+      <h3 align="center">Privat Projects</h3>
       <p align="center">
         <a href="https://github.com/Cracked-oss" target="_blank">
           <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=github">
         </a>
       </p>
       <p>Advanced tools for software analysis and reverse engineering, focusing on Windows applications.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Security Research</h3>
-      <p align="center">
-        <a href="https://github.com/Cracked-oss" target="_blank">
-          <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>Researching software vulnerabilities and developing security solutions.</p>
     </td>
   </tr>
 </table>
