@@ -56,7 +56,7 @@ I am passionate about software development and computer security, specialized in
 ## 🤝 Collaboration
 I'm open for:
 - 💼 Freelance Projects
-- 🤝 Project Collaborations
+- 🤝 Project Ideas
 - 📚 Knowledge Exchange
 
 ---
