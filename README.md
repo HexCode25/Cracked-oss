@@ -4,6 +4,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/Cracked-oss?label=Follow&style=social)](https://github.com/Cracked-oss)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
 
+## 💰 Crypto Donations
+<details>
+<summary>🪙 Click here to support my work with crypto</summary>
+
+| Coin | Address |
+|------|---------|
+| ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) | `YOUR_BTC_ADDRESS` |
+| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) | `YOUR_ETH_ADDRESS` |
+| ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white) | `YOUR_LTC_ADDRESS` |
+| ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) | `YOUR_XMR_ADDRESS` |
+| ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white) | `YOUR_DOGE_ADDRESS` |
+
+</details>
+
 ## 👨‍💻 About Me
 I am passionate about software development and computer security, specialized in:
 - 💻 Reverse Engineering
@@ -30,6 +44,8 @@ I am passionate about software development and computer security, specialized in
 - 📱 Telegram: https://t.me/Hex_Code
 - 💼 Facebook: https://www.facebook.com/hexcode.832203/
 - ☕ Ko-fi: https://ko-fi.com/hexcode64319
+
+
 
 ## 📊 GitHub Stats
 
