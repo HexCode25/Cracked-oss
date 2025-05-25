@@ -1,8 +1,13 @@
 # 👋 Hi! Welcome to my profile
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Cracked-oss&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Cracked-oss?label=Follow&style=social)](https://github.com/Cracked-oss)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
+
+[![Skills](https://img.shields.io/badge/Skills-Reverse%20Engineering%20%7C%20Security%20%7C%20Development-blue?style=for-the-badge)](https://github.com/Cracked-oss)
+</div>
 
 ## 💰 Crypto Donations
 Support my work with crypto
@@ -29,20 +34,33 @@ I am passionate about software development and computer security, specialized in
 - ⚡ Fun fact: I love discovering hidden features in software!
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: C#
-- Desktop Development
-- Application Security
-- Software License Management
-- Web Development
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## 📫 How to Reach Me
-- 📱 Telegram: https://t.me/Hex_Code
-- 💼 Facebook: https://www.facebook.com/hexcode.832203/
-- ☕ Ko-fi: https://ko-fi.com/hexcode64319
+### 💼 Expertise
+- 🔒 Desktop Development
+- 🛡️ Application Security
+- 💻 Software License Management
+- 🌐 Web Development
 
+## 📫 Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hex_Code)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hexcode.832203/)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hexcode64319)
 
+## 💰 Support My Work
+
+### 💎 Crypto Donations
+| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
+|:---:|
+| `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
+| USDT (TRC20 Network) |
 
 ## 📊 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cracked-oss&show_icons=true&theme=radical)
 
@@ -50,14 +68,20 @@ I am passionate about software development and computer security, specialized in
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracked-oss&theme=radical)
 
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cracked-oss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🤝 Collaboration
+## 🤝 Let's Connect
 I'm open for:
 - 💼 Freelance Projects
 - 🤝 Project Ideas
 - 📚 Knowledge Exchange
 
 ---
+<div align="center">
 ⭐️ If you like my projects, don't forget to give them a star! 
+
+[![GitHub Profile](https://img.shields.io/badge/Visit%20My-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Cracked-oss)
+</div>
