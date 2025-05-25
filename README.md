@@ -1,4 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Cracked-oss/Cracked-oss/main/assets/banner.gif" width="100%"/>](https://github.com/Cracked-oss)
 
 <div align="center">
 
