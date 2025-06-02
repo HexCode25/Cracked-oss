@@ -27,7 +27,7 @@ I'm open for:
 <a href="https://github.com/Cracked-oss/BSOD_Windows">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=BSOD_Windows&theme=radical" />
 </a>
-<a href="[https://github.com/Cracked-oss/Arduino-simple_weighing-and-calibration](https://github.com/Cracked-oss/Simple-Loader-x86)">
+<a href="https://github.com/Cracked-oss/Simple-Loader-x86">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=Simple-Loader-x86&theme=radical" />
 </a>
 </div>
