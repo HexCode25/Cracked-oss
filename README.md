@@ -73,14 +73,6 @@ I'm open for:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hexcode.832203/)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hexcode64319)
 
-## 💰 Support My Work
-
-### 💎 Crypto Donations
-| ![Tether](https://img.shields.io/badge/Tether-50AF95?style=for-the-badge&logo=tether&logoColor=white) | 
-|:---:|
-| `THaG7n6AdFADW5fqVWBe45uD1xTBiyWd3r` |
-| USDT (TRC20 Network) |
-
 ## 📊 GitHub Stats
 
 <div align="center">
