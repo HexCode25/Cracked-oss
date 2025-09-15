@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cracked-oss&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/Cracked-oss?label=Follow&style=social)](https://github.com/Cracked-oss)
+![Profile Views](https://komarev.com/ghpvc/?username=HexCode25&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/HexCode25?label=Follow&style=social)](https://github.com/HexCode25)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hexcode64319)
 
-[![Skills](https://img.shields.io/badge/Skills-Reverse%20Engineering%20%7C%20Security%20%7C%20Development-blue?style=for-the-badge)](https://github.com/Cracked-oss)
+[![Skills](https://img.shields.io/badge/Skills-Reverse%20Engineering%20%7C%20Security%20%7C%20Development-blue?style=for-the-badge)](https://github.com/HexCode25)
 </div>
 
 ## 👨‍💻 About Me
@@ -24,11 +24,11 @@ I'm open for:
 
 ## 🔥 Featured Projects
 <div align="center">
-<a href="https://github.com/Cracked-oss/BSOD_Windows">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=BSOD_Windows&theme=radical" />
+<a href="https://github.com/HexCode25/BSOD_Windows">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HexCode25&repo=BSOD_Windows&theme=radical" />
 </a>
-<a href="https://github.com/Cracked-oss/WindowsSandboxManager">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cracked-oss&repo=WindowsSandboxManager&theme=radical" />
+<a href="https://github.com/HexCode25/WindowsSandboxManager">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HexCode25&repo=WindowsSandboxManager&theme=radical" />
 </a>
 </div>
 
@@ -39,7 +39,7 @@ I'm open for:
 <td width="100%">
  <h3 align="center">Private Projects</h3>
  <p align="center">
-   <a href="https://github.com/Cracked-oss" target="_blank">
+   <a href="https://github.com/HexCode25" target="_blank">
      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=github">
    </a>
  </p>
@@ -77,20 +77,20 @@ I'm open for:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cracked-oss&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HexCode25&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked-oss&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HexCode25&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cracked-oss&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HexCode25&theme=radical)
 
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cracked-oss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HexCode25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
 ⭐️ If you like my projects, don't forget to give them a star! 
 
-[![GitHub Profile](https://img.shields.io/badge/Visit%20My-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Cracked-oss)
+[![GitHub Profile](https://img.shields.io/badge/Visit%20My-GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/HexCode25)
 </div>
 
